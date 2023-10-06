@@ -1,4 +1,4 @@
-#Deploy aesslabs startup website in azure cloud. 
+# Deploy aesslabs startup website in azure cloud. 
 
 # Details below
 # Vanilla JavaScript App
